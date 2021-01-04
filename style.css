@@ -1,10 +1,11 @@
 body{
     background-color: cyan;
+
 }
 
-h1{
+h1{text-align: center;
     color: brown;
 }
 p{
-    background-color: cornflowerblue;
+    background-color: #417ceb;
 }
